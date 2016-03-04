@@ -1,0 +1,28 @@
+name: jfnkl
+favicon: null
+layout_spectrum: 0.6222364497371018
+typography_spectrum: 0.9932993864640594
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.49098896770738065
+  lightness: 0.992065295111388
+  saturation: 0.86966254375875
+  rhythmicContrast: 0.5632557410281152
+purpose: []
